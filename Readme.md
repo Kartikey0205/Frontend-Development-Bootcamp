@@ -16,4 +16,4 @@ _**This project is made up of HTML5 and CSS3 only . It was just a banner video w
 
 > In this I had learned the video tag of HTML5 and some more styling in CSS i.e understands the hover effect , adding images , how to use favicons.... etc.
 
-##### _**Click here to checkout Fito-Fit Gym**_ [Fito-Fit Gym](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project2-Hotel/)
+##### _**Click here to checkout my newly Hotel**_ [Hotel](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project2-Hotel/)
