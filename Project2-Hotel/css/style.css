@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100%;
+}
+/* Trick to centered */
+video{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    z-index: 1;
+}
+a{
+    display: inline-block;
+    padding: 12px 48px;
+    margin: 26px 0px;
+    border: 4px solid rgb(255, 60, 100);
+    text-decoration: none;
+    font-size: 24px;
+    color:rgb(255, 60, 100);
+}
+div{
+    position: relative;
+    z-index: 2;
+    max-width: 720px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h1{
+    background-color:yellow;
+    opacity: 0.7;
+    margin-bottom: 25px;
+    color: rgb( 39, 39, 39);
+    font-size: 44px;
+}
+
+p{
+    color: white;
+    background-color: grey;
+    opacity: 0.7;
+}
