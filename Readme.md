@@ -17,3 +17,13 @@ _**This project is made up of HTML5 and CSS3 only . It was just a banner video w
 > In this I had learned the video tag of HTML5 and some more styling in CSS i.e understands the hover effect , adding images , how to use favicons.... etc.
 
 ##### _**Click here to checkout my newly Hotel**_ [Hotel](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project2-Hotel/)
+
+---
+
+### Project 3 -- Tracky Trucks
+
+_**This project is made up of HTML5 and CSS3 only . I had made this because there are many organization which has only web preview of website and they made it in very simple professional way other than this tracky trucks gives the feel of web Resume and CV**_
+
+> In this I had learned how to use pre defined templates of web page which is written in HTML and CSS .
+
+##### _**Click here to checkout Tarcky-Trucks-WebPage**_ [Tracky Trucks](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project3-Tracky-Trucks/)
