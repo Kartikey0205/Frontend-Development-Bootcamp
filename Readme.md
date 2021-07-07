@@ -27,3 +27,13 @@ _**This project is made up of HTML5 and CSS3 only . I had made this because ther
 > In this I had learned how to use pre defined templates of web page which is written in HTML and CSS .
 
 ##### _**Click here to checkout Tarcky-Trucks-WebPage**_ [Tracky Trucks](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project3-Tracky-Trucks/)
+
+---
+
+### Project 4 -- Todo List
+
+_**This project is made up of HTML5 and CSS3 only . I had made this keepimg in my mind that we can come here and hardcore our work what we have to do ...**_
+
+> In this I had learned how to use gradient stuff and line-through on whole todo.
+
+##### _**Click here to checkout your Todo**_ [Todo](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project4-Todo-List/)
