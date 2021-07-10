@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Reggae One', cursive;
+}
+/* BODY{
+    background-color: red;
+} */
+.bg-dark{
+    background-color: #00000052!important;
+}
+.navbar-light .navbar-brand{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+
+.nav-link:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(248, 248, 248);
+}
+
+.nav-link.active{
+    color: rgb(0, 0, 0);
+    background-color: rgb(248, 248, 248);
+}
+.btn-outline-success {
+    color: rgb(0 255 137);
+}
+
+body{
+    background: url("../images/bgTech.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 30px;
+}
+
+.big-icon{
+    font-size: 5rem;
+    color: rgb(43, 117, 228);
+    
+}
+.big-icon:hover{
+    color: rgb(131, 38, 160);
+}
+.center{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 15%;
+    text-shadow: 3px 3px 2px black;
+}
+
+
+.container-fluid{
+    padding: 0px 1rem!important;
+}
+
+.btn{
+    margin: 5px;
+}
+
+/* dropdown */
+
+#ouDropdown{
+    border-radius: 0.9rem!important;
+    text-align: center!important;
+    border: 3px solid rgba(0,0,0,.15)!important;
+    min-width: 13rem!important;
+    padding: 0.5rem 8px!important;
+
+}
+
+.soci1:hover{
+    background-color: #3b599d!important;
+    padding: 2px;
+}
+
+
+.soci2:hover{
+    padding: 2px;
+
+    background-color:#55acee!important;
+}
+
