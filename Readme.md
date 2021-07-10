@@ -44,4 +44,4 @@ _**This project is made up of HTML5 and CSS3 and very first time Bootstrap frame
 
 > In this I had learned how to use Bootstrap framework stuff and how to debug its code and change its styling by inspecting!.
 
-##### _**Click here to checkout Technical Landing**_ [Todo](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project5-Technical-Landing/)
+##### _**Click here to checkout Technical Landing**_ [Technical Landing](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project5-Technical-Landing/)
