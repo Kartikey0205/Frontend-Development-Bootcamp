@@ -20,6 +20,7 @@ _**This project is made up of HTML5 and CSS3 only . It was just a banner video w
 
 ---
 
+<<<<<<< HEAD
 ### Project 5 -- Technical Landing
 
 _**This project is made up of HTML5 and CSS3 and very first time Bootstrap framework is used here! . This is a just one page preview and made this so that I can understand the concept how to use Bootstrap in my file.**_
@@ -27,3 +28,22 @@ _**This project is made up of HTML5 and CSS3 and very first time Bootstrap frame
 > In this I had learned how to use Bootstrap framework stuff and how to debug its code and change its styling by inspecting!.
 
 ##### _**Click here to checkout Technical Landing**_ [Todo](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project5-Technical-Landing/)
+=======
+### Project 3 -- Tracky Trucks
+
+_**This project is made up of HTML5 and CSS3 only . I had made this because there are many organization which has only web preview of website and they made it in very simple professional way other than this tracky trucks gives the feel of web Resume and CV**_
+
+> In this I had learned how to use pre defined templates of web page which is written in HTML and CSS .
+
+##### _**Click here to checkout Tarcky-Trucks-WebPage**_ [Tracky Trucks](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project3-Tracky-Trucks/)
+
+---
+
+### Project 4 -- Todo List
+
+_**This project is made up of HTML5 and CSS3 only . I had made this keepimg in my mind that we can come here and hardcore our work what we have to do ...**_
+
+> In this I had learned how to use gradient stuff and line-through on whole todo.
+
+##### _**Click here to checkout your Todo**_ [Todo](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project4-Todo-List/)
+>>>>>>> d077c07c331749cacd0a5ef99fbebb45b1788e1d
