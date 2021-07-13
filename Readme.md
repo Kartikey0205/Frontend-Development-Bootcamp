@@ -45,3 +45,13 @@ _**This project is made up of HTML5 and CSS3 and very first time Bootstrap frame
 > In this I had learned how to use Bootstrap framework stuff and how to debug its code and change its styling by inspecting!.
 
 ##### _**Click here to checkout Technical Landing**_ [Technical Landing](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project5-Technical-Landing/)
+
+---
+
+### Project 6 -- Pokemon Company
+
+_**This project is made up of HTML5 and CSS3 (additionally with this completed with Bootstrap and Materialize CSS)and from here I started learning JavaScript and hence used a slider and parallax in this Web page**_
+
+> In this I had learned how to use Materialize CSS and how parallax and slider works and whats the importance of data-image-source.
+
+##### _**Click here to checkout my Pokemon Company Webpage**_ [Pokemon Company](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project6-PokemonCompany/)

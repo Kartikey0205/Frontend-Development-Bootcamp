@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Reggae One', cursive;
+
+}
+body{
+    /* padding: 20px; */
+    color: #5a5a5a;
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.container{
+    padding: 2rem!important;
+}
+.myImages{
+    height: 100vh!important;
+}
+.EmpImg{
+    /* text-align: center; */
+    width: 25vw;
+    height: 50vh;
+    padding: 3px;
+    /* margin: 0 auto; */
+    margin: 17px;
+}
+
+@media (min-width:550px)and (max-width:1000px){
+    .EmpImg{
+        /* text-align: center; */
+        width: 30vw;
+        height: 37vh;
+        padding: 3px;
+        /* margin: 0 auto; */
+        margin: 17px;
+    }
+    
+}
+
+@media (max-width: 550px){
+    .EmpImg{
+        /* text-align: center; */
+        width: 25vw;
+        height: 32vh;
+        padding: 3px;
+        /* margin: 0 auto; */
+        margin: 17px;
+    }
+}
+.EmpImgAlingment{
+    text-align: center;
+    text-shadow: 0.8px 0.5px 1px rgb(255, 197, 197);
+    line-height: 1.52;
+}
+
+.divider{
+    margin: 10px;
+}
+
+.team-content{
+    margin-right: 0px!important;
+    padding: 1rem;
+}
+.content-heading{
+    text-align: center;
+    color: #651a1a;
+}
+.lead{
+   text-shadow: 1px 0.6px 0.81px grey;
+   text-align:justify;
+   line-height: 1.8;
+}
+.lead-paralax{
+    text-shadow: 1px 0.6px 0.81px rgb(255, 255, 255);
+    text-align:justify;
+    line-height: 1.8;
+ }
+.Team-mate{
+    width: 100%;
+    height: 40vh;
+    
+}
+footer{
+    background-color: #212529;
+    padding: 1rem;
+    text-align: center;
+    color: azure;
+}
+.foot{
+    float: right;
+}
+
+.foot a{
+    color: white;
+
+}
