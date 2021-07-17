@@ -55,3 +55,13 @@ _**This project is made up of HTML5 and CSS3 (additionally with this completed w
 > In this I had learned how to use Materialize CSS and how parallax and slider works and whats the importance of data-image-source.
 
 ##### _**Click here to checkout my Pokemon Company Webpage**_ [Pokemon Company](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project6-PokemonCompany/)
+
+---
+
+### Project 7 -- Sell Yahoo!
+
+_**This project again just for self Practicing the HTML and CSS and keeping in mind that i have to make it like in a professionl way**_
+
+> In this I had learned how to make accordion via bootsrap.
+
+##### _**Click here to checkout my Yahoo Selling Webpage**_ [Yahooo Selling](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project7-SellYahoo/)
