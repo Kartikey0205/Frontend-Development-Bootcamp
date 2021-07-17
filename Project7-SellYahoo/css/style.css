@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Reggae One', cursive;
+
+  }
+
+  .navbar {
+    background-color: #ebf5ff !important;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+
+
+  .accordion-button {
+    background-color: azure !important;
+  }
+
+  .faq {
+
+    margin: 3rem;
+    padding: 0.73rem;
+    margin-bottom: 1rem;
+  }
+
+  .faqItem {
+    border: 1.2px solid black !important;
+    margin: 0px 1rem;
+    background-color: #ef87a838;
+  }
+
+  .card-header>h1 {
+    padding: 3rem;
+    padding-bottom: 20px;
+  }
+
+  .card-header {
+    border-radius: 5px;
+    border-bottom: 2px solid rgb(238, 232, 232);
+    background-color: transparent !important;
+  }
+
+  .cardHead{
+      border-top: 1px dotted black;
+      margin-top: 5rem!important;
+      padding: 2rem!important;
+  }
+  .card {
+
+    /* margin: 2rem; */
+    padding: 0.3rem;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    margin-top: 0rem;
+    text-align: center;
+    font-size: larger;
+  }
+
+  footer{
+    background-color: #ebf5ff;
+    margin-top: 1rem;
+    padding: 1rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    
+}
+.foot{
+    float: right;
+}
+
+.foot a{
+    color: white;
+
+}
