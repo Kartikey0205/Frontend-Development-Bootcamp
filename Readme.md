@@ -74,4 +74,4 @@ _**This project again just for self Practicing the HTML and CSS and keeping in m
 
 > In this I had learned how to make pagination.
 
-##### _**Click here to checkout my Admin Dashboard**_ [Admin Dashboard](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project8-AdminDashBoard/)
+##### _**Click here to checkout my Admin Dashboard**_ [Admin Dashboard](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project8-AdminDashboard/)
