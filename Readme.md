@@ -65,13 +65,3 @@ _**This project again just for self Practicing the HTML and CSS and keeping in m
 > In this I had learned how to make accordion via bootsrap.
 
 ##### _**Click here to checkout my Yahoo Selling Webpage**_ [Yahooo Selling](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project7-SellYahoo/)
-
----
-
-### Project 8 -- Admin Dashboard!
-
-_**This project again just for self Practicing the HTML and CSS and keeping in mind that i have to make it like in a professionl way and focus more on design part**_
-
-> In this I had learned how to make pagination.
-
-##### _**Click here to checkout my Admin Dashboard**_ [Admin Dashboard](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project8-AdminDashBoard/)
