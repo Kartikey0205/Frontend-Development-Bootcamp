@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Reggae One" , cursive;
+}
+
+body{
+    background: -webkit-gradient(radial,center center ,0,center center,460 , from(#1a82f7),to(#2F2727));
+    /* background: -webkit-radial-gradient(circle , #1a82f7 ,#2F2727); */
+    height: 600px;
+}
+.myhead{
+    text-shadow: 2px 1px 2px #f63;
+}
+.myBtn{
+    color: white;
+    padding: 15px;
+    margin: 1rem;
+    width: 50%;
+}
+#out{
+    width: 70%;
+}
+
+.myInput{
+    box-shadow: 1px 1px 2px gold;
+    /* box-shadow: inset 5em 1em gold; */
+    color: #f63;
+    padding: 12px;
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 7px;
+    font-size: 2rem;
+
+}
+
+.myTxt{
+    font-size: 2rem;
+    text-shadow: 2px 1px 2px #f63;
+
+}
+
+@media (max-width: 450px){
+    .myhead{
+        text-shadow: 2px 1px 2px #f63;
+        /* font-size: 20px; */
+    }
+    .myInput{
+        color: #f63;
+        padding: 6px;
+        margin: 0.5rem;
+        border: 1px solid black;
+        border-radius: 7px;
+        font-size: 1.5rem;
+    
+    }
+    .myTxt{
+        font-size: 1.52rem;
+    }
+    #out{
+        width: 100%;
+    }
+.myBtn{
+    color: white;
+    padding: 10px;
+    margin: 0.61rem;
+    width: 100%;
+}
+}

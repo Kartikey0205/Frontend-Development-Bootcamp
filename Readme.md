@@ -75,3 +75,13 @@ _**This project again just for self Practicing the HTML and CSS and keeping in m
 > In this I had learned how to make pagination.
 
 ##### _**Click here to checkout my Admin Dashboard**_ [Admin Dashboard](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project8-AdminDashboard/)
+
+---
+
+### Project 9 -- Random Password Generator
+
+_**From This project I started understanding the concept of JavaScript and here the first one what I had learned so far**_
+
+> In this I had learned how to make a clickable event on some button , how to make a function in javascript , hoe to use some mathematics concept and function, using strict javascript , set Time out and set Interval and so on....
+
+##### _**Click here to checkout my Random Password Generator**_ [Random Password Generator](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project9-RandomPassGen/)
