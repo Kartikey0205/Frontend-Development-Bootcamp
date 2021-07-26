@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bungee Shade', cursive;
+}
+
+#clock{
+    /* background-color:blue; */
+    font-size: 70px;
+    width: 80%;
+    margin: 0 auto;
+    color: aliceblue;
+    margin-top: 9rem;
+    text-shadow: 1px 1px 2px rgb(2, 22, 112);
+
+}
+
+.colon{
+    color: #f63;
+}
+@media (max-width:550px){
+    #clock{
+
+        font-size: 35px;
+    }
+
+}
+
+@media (max-width:300px){
+    #clock{
+
+        font-size: 25px;
+    }
+
+}
