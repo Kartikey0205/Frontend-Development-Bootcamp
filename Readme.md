@@ -85,3 +85,14 @@ _**From This project I started understanding the concept of JavaScript and here 
 > In this I had learned how to make a clickable event on some button , how to make a function in javascript , hoe to use some mathematics concept and function, using strict javascript , set Time out and set Interval and so on....
 
 ##### _**Click here to checkout my Random Password Generator**_ [Random Password Generator](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project9-RandomPassGen/)
+
+---
+
+### Project 10 -- TickyClock
+
+_**From This project shows the current time using JavaScript Date concepts**_
+
+> I had made this Tocky clock because it not just just shows the time infact its main work other than showing current time is to
+> change the background color according to the value of current time , every second will change the color.
+
+##### _**Click here to checkout my TickyClock**_ [TickyClock](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project10-TickyClock/)
