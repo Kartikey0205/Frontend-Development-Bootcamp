@@ -90,9 +90,18 @@ _**From This project I started understanding the concept of JavaScript and here 
 
 ### Project 10 -- TickyClock
 
-_**From This project shows the current time using JavaScript Date concepts**_
+_**This project shows the current time using JavaScript Date concepts**_
 
-> I had made this Tocky clock because it not just just shows the time infact its main work other than showing current time is to
-> change the background color according to the value of current time , every second will change the color.
+> I had made this Tocky clock because it not just just shows the time infact its main work other than showing current time is to change the background color according to the value of current time , every second will change the color.
 
 ##### _**Click here to checkout my TickyClock**_ [TickyClock](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project10-TickyClock/)
+
+---
+
+### Project 11 -- ImageSlider
+
+_**This project just holds a two way slider, it is quite attractive according to trending world!**_
+
+> In this I had learned how to use the third party plugin in a project
+
+##### _**Click here to checkout my ImageSlider**_ [ImageSlider](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project11-ImageSlider/)
