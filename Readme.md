@@ -105,3 +105,13 @@ _**This project just holds a two way slider, it is quite attractive according to
 > In this I had learned how to use the third party plugin in a project
 
 ##### _**Click here to checkout my ImageSlider**_ [ImageSlider](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project11-ImageSlider/)
+
+---
+
+### Project 12 -- TypeAhead
+
+_**This project something like a Google Search**_
+
+> In this I had learned how to use the third party plugin in a project and made something like a search menu of Google where states of USA is searched based on the input
+
+##### _**Click here to checkout my TypeAhead**_ [TypeAhead](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project12-TypeAhead/)
