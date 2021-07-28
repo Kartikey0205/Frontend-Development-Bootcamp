@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Reggae One" , cursive;
+}
+.card-body #the-basics{
+    /* padding: 0rem!important; */
+    font-size: 30px;
+    text-align: center;
+    margin: 1rem;
+}
+
+.card-body #the-basics .typeahead{
+    padding: 1rem;
+}
