@@ -115,3 +115,13 @@ _**This project is something like a Google Search**_
 > In this I had learned how to use the third party plugin in a project and made something like a search menu of Google where states of USA is searched based on the input
 
 ##### _**Click here to checkout my TypeAhead**_ [TypeAhead](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project12-TypeAhead/)
+
+---
+
+### Project 13 -- Bonus Todo with Typed plugin
+
+_**This project is intermediate version of TODO application**_
+
+> In this I had learned how to use the third party typed plugin in a project
+
+##### _**Click here to checkout my Bonus TODO**_ [Bonus Todo](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project13-BonusTODO/)
