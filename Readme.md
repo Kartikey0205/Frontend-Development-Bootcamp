@@ -125,3 +125,13 @@ _**This project is intermediate version of TODO application**_
 > In this I had learned how to use the third party typed plugin in a project
 
 ##### _**Click here to checkout my Bonus TODO**_ [Bonus Todo](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project13-BonusTODO/)
+
+---
+
+### Project 14 -- Indian Flag using ParticleJS
+
+_**This project is made up of ParticleJS with Typed plugin**_
+
+> In this I had learned how to use the third party typed plugin in a project as well as Prticle JS and made an INDIAN FLAG using these library and also learned how to write a JQuery and understands its concepts.
+
+##### _**Click here to checkout an Indian Flag**_ [INDIAN FLAG](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project14-ParticleJS/)
