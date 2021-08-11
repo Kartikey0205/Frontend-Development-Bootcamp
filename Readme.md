@@ -142,6 +142,6 @@ _**This project is made up of ParticleJS with Typed plugin**_
 
 _**This is a complete fully responsive coffee shop webpage**_
 
-> In this I had concluded all the concepts from very basic of HTML to javascript , jquery also uses CSS processors SASS for better styling code and connect with all these with gulp.
+> In this I had concluded all the concepts from very basic of HTML to javascript , jquery also uses CSS processors SASS for better styling code and connect all these with gulp.
 
 ##### _**Click here to checkout a Coffee Shop**_ [COFFEE SHOP](https://kartikey0205.github.io/Frontend-Development-Bootcamp/Project15-CoffeeShop/)
